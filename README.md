@@ -95,6 +95,9 @@
 
     Loss (%) share of observations loss given the set of circunstances
 
+## Suggested Citation
+[Joao Pedro Azevedo & Samuel Franco & Eliana Rubiano & Alejandro Hoyos, 2010. "HOI: Stata module to compute Human Opportunity Index," Statistical Software Components S457191, Boston College Department of Economics, revised 05 Apr 2011.](https://ideas.repec.org/c/boc/bocode/s457191.html)
+
 ## References
 
     Carlos Eduardo Velez, Joao Pedro Azevedo, and Christian Posso. Oportunidades para los ni?os
@@ -108,4 +111,12 @@
     Ricardo Paes de Barros, Francisco H.G. Ferreira, Jose Molinas Vega, Jaime Saavedra Chanduvi,
     et all, 2008. "Measuring Inequality of Opportunities in Latin America and the Caribbean",
     World Bank: Washington, DC.  http://go.worldbank.org/A9Z0NUV620
+
+### Handle: RePEc:boc:bocode:s457191 
+
+### Note: 
+This module should be installed from within Stata by typing "ssc install hoi". Windows users should not attempt to download these files with a web browser.
+
+### Keywords
+human opportunity index; dissimilarity index;
 
