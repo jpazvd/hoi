@@ -1,7 +1,7 @@
-v 0.0.0
-d 'HOI' 
+v 1.7
+d 'HOI': Stata module to compute Human Opportunity Index
 d 
-d Distribution-Date: 
+d Distribution-Date: 26mar2011
 d License: MIT
 d 
 F src/h/hoi.ado
