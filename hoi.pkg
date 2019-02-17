@@ -1,0 +1,10 @@
+v 0.0.0
+d 'HOI' 
+d 
+d Distribution-Date: 
+d License: MIT
+d 
+F src/h/hoi.ado
+F src/h/hoi.hlp
+F src/i/indeplist.ado
+F src/_/_pecats2.ado
