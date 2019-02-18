@@ -1,4 +1,4 @@
-# HOI: Stata module to compute the Human Opportunity Index (or Equity Adjuste Coverage Rate)
+﻿# HOI: Stata module to compute the Human Opportunity Index (or Equity Adjuste Coverage Rate)
 
 ## Description
 
@@ -119,4 +119,20 @@ This module should be installed from within Stata by typing "ssc install hoi". W
 
 ### Keywords
 human opportunity index; dissimilarity index;
+
+
+## Authors: 
+
+  **João Pedro Azevedo**  
+  [jazevedo@worldbank.org](mailto:jazevedo@worldbank.org)  
+  World Bank  
+  [personal page](http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo)  
+
+  **Samuel Franco**  
+
+  **Eliana Rubiano**  
+
+  **Alej**  
+
+  **ro Hoyos**  
 
