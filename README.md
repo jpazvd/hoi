@@ -136,3 +136,18 @@ human opportunity index; dissimilarity index;
 
   **ro Hoyos**  
 
+
+## Authors: 
+
+  **João Pedro Azevedo**  
+  [jazevedo@worldbank.org](mailto:jazevedo@worldbank.org)  
+  World Bank  
+  [personal page](http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo)  
+
+  **Samuel Franco**  
+
+  **Eliana Rubiano**  
+  World Bank  
+
+  **Alejandro Hoyos**  
+
